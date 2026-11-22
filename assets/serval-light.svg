@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160" role="img" aria-label="Serval: De texto a geometría 3D. Prototipo">
-<rect x="1" y="1" width="558" height="158" rx="16" fill="#fbf8f2" stroke="#5d5344"/>
-<svg x="24" y="28" width="88" height="88" color="#6d28d9" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 54">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="370" viewBox="0 0 520 370" role="img" aria-label="Serval: Prototipo en Python que explora el paso de una descripción escrita a una geometría preparada para impresión 3D. No toda descripción produce una geometría válida.. Prototipo">
+<rect x="1" y="1" width="518" height="368" rx="18" fill="#fbf8f2" stroke="#5d5344"/>
+<svg x="30" y="28" width="76" height="76" color="#6d28d9" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 54">
   <!-- serval by XPayà · master FACETADO (≥40 px: splash, about, store) · malla evenodd, fórmula XP-C -->
   <path fill="currentColor" fill-rule="evenodd" d="M7 38 L2 2 L26 18.5 Q32 16 38 18.5 L62 2 L57 38 Q57 52 32 52 Q7 52 7 38 Z M1.575 2.618 L25.575 19.118 L26.425 17.882 L2.425 1.382 Z M61.575 1.382 L37.575 17.882 L38.425 19.118 L62.425 2.618 Z M25.329 18.835 L31.329 30.835 L32.671 30.165 L26.671 18.165 Z M37.329 18.165 L31.329 30.165 L32.671 30.835 L38.671 18.835 Z M7.202 38.722 L32.202 31.722 L31.798 30.278 L6.798 37.278 Z M57.202 37.278 L32.202 30.278 L31.798 31.722 L56.798 38.722 Z M31.25 30.5 L31.25 52 L32.75 52 L32.75 30.5 Z"/>
 </svg>
 
-<text x="140" y="49" font-family="Georgia,serif" font-size="29" font-weight="bold" fill="#221c15">Serval</text>
-<text x="140" y="82" font-family="Arial,sans-serif" font-size="18" fill="#221c15">De texto a geometría 3D</text>
-<text x="140" y="121" font-family="Consolas,monospace" font-size="15" fill="#221c15">Prototipo</text>
+<text x="126" y="63" font-family="Georgia,serif" font-size="32" font-weight="bold" fill="#221c15">Serval</text>
+<text x="126" y="92" font-family="Arial,sans-serif" font-size="17" fill="#221c15">De texto a geometría 3D</text>
+<path d="M30 133H490" stroke="#5d5344"/>
+<text font-family="Arial,sans-serif" font-size="18" fill="#221c15"><tspan x="30" y="180">Prototipo en Python que explora el paso de una</tspan><tspan x="30" y="205">descripción escrita a una geometría preparada</tspan><tspan x="30" y="230">para impresión 3D. No toda descripción produce</tspan><tspan x="30" y="255">una geometría válida.</tspan></text>
+<text x="30" y="336" font-family="Consolas,monospace" font-size="15" fill="#221c15">Prototipo</text>
+<path d="M466 326l10 9-10 9m-12-9h22" fill="none" stroke="#be123c" stroke-width="2"/>
 </svg>

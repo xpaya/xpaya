@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="220" viewBox="0 0 1060 220" role="img" aria-label="XPayà · Proyectos personales">
+<rect width="1060" height="220" rx="18" fill="#17120f"/><svg x="36" y="38" width="115" height="110" color="#ef8fa3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 58">
+  <!-- XP-C · símbolo maestro v1 (G7 malla) · XPayà · SPEC-05 -->
+  <!-- Un solo color: hereda via fill="currentColor". Facetas = huecos reales (evenodd). -->
+  <path fill="currentColor" fill-rule="evenodd" d="M8 36 L8 9 L23 20 Q32 16.5 41 20 L56 9 L56 36 Q56 52 32 52 Q8 52 8 36 Z
+    M7.468 9.726 L22.468 20.726 L23.532 19.274 L8.532 8.274 Z
+    M55.468 8.274 L40.468 19.274 L41.532 20.726 L56.532 9.726 Z
+    M22.304 20.57 L31.304 31.57 L32.696 30.43 L23.696 19.43 Z
+    M40.304 19.43 L31.304 30.43 L32.696 31.57 L41.696 20.57 Z
+    M8.184 36.881 L32.184 31.881 L31.816 30.119 L7.816 35.119 Z
+    M56.184 35.119 L32.184 30.119 L31.816 31.881 L55.816 36.881 Z
+    M31.1 31 L31.1 52 L32.9 52 L32.9 31 Z"/>
+</svg>
+
+<text x="175" y="119" font-family="Georgia,serif" font-size="76" font-weight="600" fill="#f2ece3"><tspan font-weight="700" fill="#ef8fa3">XP</tspan>ayà</text>
+<text x="180" y="164" font-family="Consolas,monospace" font-size="18" letter-spacing="3" fill="#f2ece3">PROYECTOS PERSONALES</text>
+</svg>

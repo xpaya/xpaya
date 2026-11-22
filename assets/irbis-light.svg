@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160" role="img" aria-label="Irbis: Patronaje de maillots. En desarrollo">
-<rect x="1" y="1" width="558" height="158" rx="16" fill="#fbf8f2" stroke="#5d5344"/>
-<svg x="24" y="28" width="88" height="88" color="#3340a3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 54">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="370" viewBox="0 0 520 370" role="img" aria-label="Irbis: Proyecto de patronaje y diseño de maillots de patinaje artístico. Actualmente en fase de contratos de datos y pruebas de viabilidad.. En desarrollo">
+<rect x="1" y="1" width="518" height="368" rx="18" fill="#fbf8f2" stroke="#5d5344"/>
+<svg x="30" y="28" width="76" height="76" color="#3340a3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 54">
   <!-- Irbis by XPayà · I1 aprobada 2026-11-22 · facetado de identidad. -->
   <path fill="currentColor" fill-rule="evenodd" d="M7 32 L8 21 Q3 17 5 10 Q7 4 13 5 Q19 5 21 14 Q32 10 43 14 Q45 5 51 5 Q57 4 59 10 Q61 17 56 21 L57 32 Q56 43 46 48 Q40 52 32 53 Q24 52 18 48 Q8 43 7 32 Z M13 11.4 L14.2 10.4 L23.4 17.6 L32 28.2 L40.6 17.6 L49.8 10.4 L51 11.4 L41.8 18.6 L33.4 29.1 L53.1 33.2 L52.8 34.8 L32.8 30.7 L32.8 50 L31.2 50 L31.2 30.7 L11.2 34.8 L10.9 33.2 L30.6 29.1 L22.2 18.6 Z"/>
 </svg>
 
-<text x="140" y="49" font-family="Georgia,serif" font-size="29" font-weight="bold" fill="#221c15">Irbis</text>
-<text x="140" y="82" font-family="Arial,sans-serif" font-size="18" fill="#221c15">Patronaje de maillots</text>
-<text x="140" y="121" font-family="Consolas,monospace" font-size="15" fill="#221c15">En desarrollo</text>
+<text x="126" y="63" font-family="Georgia,serif" font-size="32" font-weight="bold" fill="#221c15">Irbis</text>
+<text x="126" y="92" font-family="Arial,sans-serif" font-size="17" fill="#221c15">Patronaje de maillots</text>
+<path d="M30 133H490" stroke="#5d5344"/>
+<text font-family="Arial,sans-serif" font-size="18" fill="#221c15"><tspan x="30" y="180">Proyecto de patronaje y diseño de maillots de</tspan><tspan x="30" y="205">patinaje artístico. Actualmente en fase de</tspan><tspan x="30" y="230">contratos de datos y pruebas de viabilidad.</tspan></text>
+<text x="30" y="336" font-family="Consolas,monospace" font-size="15" fill="#221c15">En desarrollo</text>
+<path d="M466 326l10 9-10 9m-12-9h22" fill="none" stroke="#be123c" stroke-width="2"/>
 </svg>
