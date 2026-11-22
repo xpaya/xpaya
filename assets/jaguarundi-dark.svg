@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160" role="img" aria-label="Jaguarundi: La propia web de XPayà. Astro · TypeScript">
+<rect x="1" y="1" width="558" height="158" rx="16" fill="#211a16" stroke="#beb2a4"/>
+<svg x="24" y="28" width="88" height="88" color="#ef8fa3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 54">
+  <!-- jaguarundi by XPayà · master FACETADO (≥40 px: splash, about, store) · malla evenodd, fórmula XP-C -->
+  <path fill="currentColor" fill-rule="evenodd" d="M8 36 L8 24 Q8 15 14 14 Q19 13 24 20 Q32 18 40 20 Q45 13 50 14 Q56 15 56 24 L56 36 Q56 52 32 52 Q8 52 8 36 Z M15 14.5 L23.5 20 L22.902 20.924 L14.402 15.424 Z M49 14.5 L40.5 20 L41.098 20.924 L49.598 15.424 Z M24.2 20.4 L31.2 30.2 L30.305 30.839 L23.305 21.039 Z M39.8 20.4 L32.8 30.2 L33.695 30.839 L40.695 21.039 Z M8.4 35.5 L31.4 31.5 L31.588 32.584 L8.588 36.584 Z M55.6 35.5 L32.6 31.5 L32.412 32.584 L55.412 36.584 Z M31.3 30.2 L31.3 52 L32.7 52 L32.7 30.2 Z"/>
+</svg>
+
+<text x="140" y="49" font-family="Georgia,serif" font-size="29" font-weight="bold" fill="#f2ece3">Jaguarundi</text>
+<text x="140" y="82" font-family="Arial,sans-serif" font-size="18" fill="#f2ece3">La propia web de XPayà</text>
+<text x="140" y="121" font-family="Consolas,monospace" font-size="15" fill="#f2ece3">Astro · TypeScript</text>
+</svg>
